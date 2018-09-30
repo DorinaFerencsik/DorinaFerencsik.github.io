@@ -81,8 +81,8 @@
 
 		}
 
-		var connectToStrava = $("#connect-button");
-		connectToStrava.click($.proxy(this.onConnectToStrava, this));
+//		var connectToStrava = $("#connect-button");
+//		connectToStrava.click($.proxy(this.onConnectToStrava, this));
 
 
 })(jQuery);
